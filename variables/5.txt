@@ -1,0 +1,5 @@
+1. The first program prints 3.
+
+
+2. The second program shows the error undefined local variable or method `x' for main:Object (NameError).
+Because x is available only inside the do/end block.
