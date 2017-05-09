@@ -1,0 +1,2 @@
+There are many different Ruby/RAils API resources online resources but for me https://ruby-doc.org/ is the best. It's well orginized and has all the information.
+Since many people use this resource it has all recent updates and high quality information. Sometimes it might be a little difficult to find what you need but once you got familiar it becomes much easier.

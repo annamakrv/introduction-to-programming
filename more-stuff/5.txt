@@ -1,0 +1,1 @@
+When we pass the block as a parameter whe should put the ampersand sign & in front of it. 

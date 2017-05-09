@@ -1,0 +1,3 @@
+The error tells us that in arrays we can use only integers as indexes.
+The problem can be fixed:
+names[3] = 'jody'

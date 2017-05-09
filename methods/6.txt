@@ -1,0 +1,1 @@
+The error message tells us that instead of 2 argumenst we passed only 1 in method 'calculate_product'

@@ -1,0 +1,2 @@
+Exception handling is a specific process that deals with errors in a manageable and predictable way. 
+An exception handler is a block of code that is executed if an exception occurs during the execution of some other block of code. Raising an exception means stopping normal execution of the program and transferring the flow-of-control to the exception handling code where you either deal with the problem that's been encountered or exit the program completely. 

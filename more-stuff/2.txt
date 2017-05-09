@@ -1,0 +1,4 @@
+
+Nothing is printed because we did not call the block.
+The program returns the following:
+ #<Proc:0x330d4b8@(irb):183>
